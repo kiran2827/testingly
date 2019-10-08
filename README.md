@@ -5,7 +5,8 @@ without much exposed to technicality of the solution/automated test/process.
 
 Let  me talk about this problem in more detail:
 
-Lets say here is a delivery team which develops plenty of automation,but at the same time client also wants to leverage that automation tests/suite
+Lets say here is a delivery team which develops plenty of automation,but at the same time client also wants to leverage that automation tests/suite.
+
 In an ideal case,delivery team would rather try to replicate the solution and add dependancies in the Customer's system
 this would cause a technical learning curve for Customers
 and whenever scripts fails, debugging issues in Customer's machine, which is time consuming in nature
@@ -25,7 +26,7 @@ for eg login based system, where those login credentials can used for doing dail
 If you think of more enhancements ,please feel free to create an issue in Github.
 
 
-and You can find end to end installation setup guide in wiki
+and You can find end to end installation, setup,and user guide in wiki
 
 Thanks :)
 
