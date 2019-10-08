@@ -12,10 +12,10 @@ this would cause a technical learning curve for Customers
 and whenever scripts fails, debugging issues in Customer's machine, which is time consuming in nature
 
 To Get Rid of these problem:
-Testing.ly is designed and developed in manner that,  you can invoke chat assistant and run your test cases using Natural Language
-Ease of use , Testing on your fingertips.
+Testing.ly is designed and developed in manner that,  you can invoke chat assistant and run your test cases using Natural Language.
+Hence it provides , Ease of use , Testing on your fingertips.
 
-MoreOver this tool can be used a wrapper on existing automations developed, so you really dont need to redevelop your automation,
+Moreover this tool can be used a wrapper on existing automations developed, so you really dont need to redevelop your automation,
 just need to map your automation to this chatbot and thats it, you are good to go
 And Not only Test Scipts, you can add anything Batch Jobs,Automated Processes etc.
 
