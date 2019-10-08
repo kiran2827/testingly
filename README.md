@@ -31,8 +31,14 @@ and You can find end to end installation, setup,and user guide in wiki
 Thanks :)
 
 If you like this project
+
 Here is my linkedIN Profile:
+
 https://www.linkedin.com/in/sachin-dhiman/
-Give me a Recommendation
+
+You can reach me out on: sachinndhimann@gmail.com
+
+
+
 
 
