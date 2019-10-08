@@ -1,0 +1,5 @@
+{
+	"smoketest":"pythontest.py",
+	"performancetest":"performancetest.py"
+    
+}

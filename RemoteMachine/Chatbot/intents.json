@@ -1,0 +1,43 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hey","Hi there", "How are you", "Is anyone there?", "Hello", "Good day"],
+         "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+		{"tag": "lmwords",
+         "patterns": ["okay", "sure", "hmm", "yeah", "okay okay"],
+         "responses": ["yes sir", "hmm", "yeah"],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+        {"tag": "options",
+         "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+         "responses": [" You can run your automated tests, Available Tests are: Smoke Test and Performance Test "],
+         "context": [""]
+		},
+        {"tag": "smoketest",
+         "patterns": ["run a smoke test  for google", "do a smoke test for google"],
+         "responses": ["Smoke Test Started.Results will be published via mail."],
+         "context": [""]
+		},
+        {"tag": "performancetest",
+         "patterns": ["start performance test for google", "run performance test for google"],
+         "responses": ["Performance Test Started.Results will be shared via mail."],
+         "context": [""]
+		}
+   ]
+}
